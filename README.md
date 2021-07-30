@@ -2,4 +2,4 @@
 
 Face detection with Python and OpenCV
 
-![](assets/outputexample.png)
+![](assets/outputexample.PNG)
